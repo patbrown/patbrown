@@ -1,8 +1,8 @@
-# $${\color{#06437a}Life \space \color{#06437a}is \space \color{#06437a}a \space \color{#06437a}series \space \color{#06437a}of \space \color{#06437a}concentric \space \color{#06437a}cybernetic \space \color{#06437a}loops. \space}$$
+# Life is a series of concentric cybernetic loops.
 
 ### I am using Clojure to explore scale-free intelligence hierarchies for simpler control systems.
 ---
-##### #active-inference, #rules-engines, #scicloj, #distributed-agents
+##### $${\color{#06437a}active-inference}$$ $${\color{#06437a}--}$$    $${\color{#06437a}rules-engines}$$ $${\color{#06437a}--}$$     $${\color{#06437a}scicloj}$$ $${\color{#06437a}--}$$    $${\color{#06437a}distributed-agents}$$ $${\color{#06437a}--}$$  $${\color{#06437a}--}$$    $${\color{#06437a}banana-good}$$  $${\color{#06437a}--}$$    $${\color{#06437a}control-systems}$$ 
 ---
 Currently working on [Thing](https://website.io/) and associated projects. Read [pat.baby](https://pat.baby/) or <a href="https://github.com/scicloj">Scicloj</a>.
 ```clj
