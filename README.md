@@ -2,7 +2,7 @@
 
 ### I am using Clojure to explore scale-free intelligence hierarchies for simpler control systems.
 ---
-##### $${\color{#06437a}active-inference}$$ $${\color{#06437a}--}$$    $${\color{#06437a}rules-engines}$$ $${\color{#06437a}--}$$     $${\color{#06437a}scicloj}$$ $${\color{#06437a}--}$$    $${\color{#06437a}distributed-agents}$$ $${\color{#06437a}--}$$  $${\color{#06437a}--}$$    $${\color{#06437a}banana-good}$$  $${\color{#06437a}--}$$    $${\color{#06437a}control-systems}$$ 
+#### $${\color{#06437a}active-inference}$$ $${\color{#06437a}--}$$    $${\color{#06437a}rules-engines}$$ $${\color{#06437a}--}$$     $${\color{#06437a}scicloj}$$ $${\color{#06437a}--}$$    $${\color{#06437a}distributed-agents}$$ $${\color{#06437a}--}$$   $${\color{#06437a}banana-good}$$  $${\color{#06437a}--}$$    $${\color{#06437a}control-systems}$$
 ---
 Currently working on [Thing](https://website.io/) and associated projects. Read [pat.baby](https://pat.baby/) or <a href="https://github.com/scicloj">Scicloj</a>.
 ```clj
