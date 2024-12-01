@@ -1,4 +1,4 @@
-# Life is a series of concentric cybernetic loops.
+# $${\color{#06437a}Life \space \color{#06437a}is \space \color{#06437a}a \space \color{#06437a}series \space \color{#06437a}of \space \color{#06437a}concentric \space \color{#06437a}cybernetic \space \color{#06437a}loops. \space}$$
 
 ### I am using Clojure to explore scale-free intelligence hierarchies for simpler control systems.
 ---
@@ -55,4 +55,7 @@ More on [pat.baby.net](https://pat.baby/)
 </td>
 </tr>
 </table>
+
+
+
 <a href="https://pat.baby/">Much love</a>
