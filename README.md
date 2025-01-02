@@ -2,10 +2,10 @@
 
 ### #clojure, #active-inference, #expert-systems, #distributed-agents
 ---
-*"Bad programmers worry about the code. Good programmers worry about data structures and their relationships."* - **Linus Torvalds**
+"Bad programmers worry about the code. Good programmers worry about data structures and their relationships." - **Linus Torvalds**
 ---
 Located @ [pat.baby](https://pat.baby/).
-```clj
+```clojure
 (ns hello-world
   (:require [your.mom]))
 
