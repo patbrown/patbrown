@@ -8,10 +8,10 @@
 - **Linus Torvalds**
 
 ---
-Located @ [pat.baby](https://pat.baby/).
+Located @ [drilling.net](https://drilling.net/).
 ```clojure
 (ns hello-world
-  (:require [your.mom]))
+  (:require [hack.like.your.momma.son]))
 
 (def self {:lover? true,
            :clojurian? true})
