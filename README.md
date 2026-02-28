@@ -11,9 +11,10 @@
 Located @ [drilling.net](https://drilling.net/).
 ```clojure
 (ns hello-world
-  (:require [hack.like.your.momma.son]))
+  (:require [hack.like.your.momma.son :refer [express]))
 
 (def self {:lover? true,
            :clojurian? true})
 
+(express self)
 ```
